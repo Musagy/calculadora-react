@@ -17,7 +17,7 @@ function App() {
       "%": (a, b) => (a / 100) * b,
     }
 
-    const result = operator !== false ? OPERATORS[operator](num1, num2): num2;
+    const result = !!operator ? OPERATORS[operator](num1, num2) : num2;
 
     return result;
   }
