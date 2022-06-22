@@ -1,6 +1,6 @@
 
 ### Ejercicio rápido
-# Videos favoritos
+# Calculadora de botones
 
 ![preview](https://i.imgur.com/02rGc1W.png)
 
@@ -29,4 +29,3 @@ o si quiere el proyecto neto
 npm run build
 npm run preview
 ```
-
